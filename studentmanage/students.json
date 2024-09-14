@@ -1,0 +1,12 @@
+[
+    {
+        "name": "zhangsan",
+        "age": 18,
+        "gender": "nan",
+        "student_id": "20236666",
+        "hobbies": [
+            "ctrl"
+        ],
+        "gpa": 4.9
+    }
+]
